@@ -1,0 +1,101 @@
+[
+  {
+    "name":"Autohut.ro | Car Parts Website",
+    "image": "css/img/projects/autohut/autohut-1.png",
+    "images": ["css/img/projects/autohut/autohut-2.png", "css/img/projects/autohut/autohut-3.png", "css/img/projects/autohut/autohut-4.png", "css/img/projects/autohut/autohut-5.png"],
+    "short_description":"Autohut.ro is a PHP based website built on OpenCart, an MVC e-commerce platform. This is a dedicated car parts website based on TecDoc database with over four million products...",
+    "description":"Autohut.ro is a PHP based website built on OpenCart, an MVC e-commerce platform. This is a dedicated car parts website based on TecDoc database with over four million products. The customer needed real time prices for his products from four different suppliers. Using suppliers’ web services to compare prices and availability to get the best deal for Autohut customers. Also saving each query to keep track of prices or if any bug appears. Beanstalkd was used to create a work queue, because of the number of database queries needed to be done. The website is responsive, built with CSS Bootstrap and JavaScript and jQuery. Also custom plugins were built like One Page Checkout, CRM or Request Offer.",
+    "tags": [
+      "PHP", "MySQL", "OpenCart", "jQuery", "Bootstrap", "SOAP", "Beanstalkd"
+    ],
+    "url": "http://www.autohut.ro"
+  },
+  {
+    "name":"Popupshop.net",
+    "image": "css/img/projects/popupshop/popupshop-1.png",
+    "images": ["css/img/projects/popupshop/popupshop-2.png", "css/img/projects/popupshop/popupshop-3.png", "css/img/projects/popupshop/popupshop-4.png"],
+    "short_description":"Popupshop.net is a PHP based website built on OpenCart, an MVC e-commerce platform. I provided an advanced e-commerce solution with retail and distributions features, CRM...",
+    "description":"Popupshop.net is a PHP based website built on OpenCart, an MVC e-commerce platform. I provided an advanced e-commerce solution with retail and distributions features, CRM, weight based shipping, store finder, group based payment methods, reports, and invoice management and custom editing features for an order. Soap integration with external stock management company for syncing stocks and shipping lists system integrated in the backend, so they can easily send one or multiple shipping lists to external stock management companies. Can easily return a product or entire shipping list along with feedback, product or products automatically marked as unused and able to resend to another shipping list. Responsive website build with Bootstrap.",
+    "tags": [
+      "PHP", "MySQL", "OpenCart", "jQuery", "Bootstrap", "SOAP"
+    ],
+    "url": "http://www.popupshop.net"
+  },
+  {
+    "name":"Purpleflowers.ro | Online Flowers Market",
+    "image": "css/img/projects/purpleflowers/purpleflowers-1.png",
+    "images": ["css/img/projects/purpleflowers/purpleflowers-2.png", "css/img/projects/purpleflowers/purpleflowers-3.png", "css/img/projects/purpleflowers/purpleflowers-4.png"],
+    "short_description":"Purpleflowers.ro is a PHP based website built on OpenCart, an MVC e-commerce platform. Purpleflowers is an online flowers market which offers from simple flowers to bouquets and flower arrangements...",
+    "description":"Purpleflowers.ro is a PHP based website built on OpenCart, an MVC e-commerce platform. Purpleflowers is an online flowers market which offers from simple flowers to bouquets and flower arrangements. I developed several plugins for this website, such as 'Create your own bouquet' which gives the customer the opportunity to pick the flowers, the arrangements and let them set a budget. I also developed other plugins like One Page Checkout, CRM and a blog into OpenCart. Website is fully responsive, created with Bootstrap and jQuery.",
+    "tags": [
+      "PHP", "MySQL", "OpenCart", "jQuery", "Bootstrap"
+    ],
+    "url": "http://www.purpleflowers.ro"
+  },
+  {
+    "name":"Mamaboutique.ro",
+    "image": "css/img/projects/mamaboutique/mamaboutique-1.png",
+    "images": ["css/img/projects/mamaboutique/mamaboutique-2.png", "css/img/projects/mamaboutique/mamaboutique-3.png", "css/img/projects/mamaboutique/mamaboutique-4.png"],
+    "short_description":"Mamaboutique.ro was built using OpenCart, an MVC e-commerce platform. This webshop uses advanced filters, several shipping methods based on user group, Romanian invoice system...",
+    "description":"Mamaboutique.ro was built using OpenCart, an MVC e-commerce platform. This webshop uses advanced filters, several shipping methods based on user group, Romanian invoice system and order editing flow custom plugins. I built this website with Bootstrap and jQuery being fully responsive.",
+    "tags": [
+      "PHP", "MySQL", "OpenCart", "jQuery", "Bootstrap"
+    ],
+    "url": "http://www.mamaboutique.ro"
+  },
+  {
+    "name":"Iregalidifrancesca.net",
+    "image": "css/img/projects/iregalidifrancesca/iregalidifrancesca-1.png",
+    "images": ["css/img/projects/iregalidifrancesca/iregalidifrancesca-2.png", "css/img/projects/iregalidifrancesca/iregalidifrancesca-3.png", "css/img/projects/iregalidifrancesca/iregalidifrancesca-4.png"],
+    "short_description":"Iregalidifrancesca.ro is built based on OpenCart, an MVC e-commerce platform.  This website uses advanced filters, Romanian invoice system and one page checkout custom plugins...",
+    "description":"Iregalidifrancesca.ro is built based on OpenCart, an MVC e-commerce platform.  This website uses advanced filters, Romanian invoice system and one page checkout custom plugins. I built this website with Bootstrap and jQuery enabling it to be a fully responsive website.",
+    "tags": [
+      "PHP", "MySQL", "OpenCart", "jQuery", "Bootstrap"
+    ],
+    "url": "http://www.iregalidifrancesca.ro"
+  },
+  {
+    "name":"Hype.ro",
+    "image": "css/img/projects/hype/hype-1.png",
+    "images": ["css/img/projects/hype/hype-2.png", "css/img/projects/hype/hype-3.png"],
+    "short_description":"Hype.ro is a PHP based website I built using WordPress platform. This is a unique design that I developed with technologies like Bootstrap, jQuery and Parallax...",
+    "description":"Hype.ro is a PHP based website I built using WordPress platform. This is a unique design that I developed with technologies like Bootstrap, jQuery and Parallax. As a presentation website it does not have a lot of backend, as Hype’s main focus was to deliver information to the customers.",
+    "tags": [
+      "PHP", "WordPress", "jQuery", "Bootstrap"
+    ],
+    "url": "http://www.hype.ro"
+  },
+  {
+    "name":"Infrafit.ro",
+    "image": "css/img/projects/infrafit/infrafit-1.png",
+    "images": ["css/img/projects/infrafit/infrafit-2.png", "css/img/projects/infrafit/infrafit-3.png"],
+    "short_description":"Infrafit.ro is a simple PHP based website built using WordPress platform. The website aims to deliver content to customers in a straight forward formatted way...",
+    "description":"Infrafit.ro is a simple PHP based website built using WordPress platform. The website aims to deliver content to customers in a straight forward formatted way. It is fully responsive and I built the site with Bootstrap and some jQuery plugins.",
+    "tags": [
+      "PHP", "WordPress", "jQuery", "Bootstrap"
+    ],
+    "url": "http://www.infrafit.ro"
+  },
+  {
+    "name":"LeasePlan CarReplacement",
+    "image": "css/img/projects/carreplacement/carreplacement-1.png",
+    "images": ["css/img/projects/carreplacement/carreplacement-2.png", "css/img/projects/carreplacement/carreplacement-3.png"],
+    "short_description":"Car Replacement is a custom solution I developed for LeasePlan Romania Corporation, based on Laravel 4, a PHP framework. Web-based application for car replacement management, with multiuser environment...",
+    "description":"Car Replacement is a custom solution I developed for LeasePlan Romania Corporation, based on Laravel 4, a PHP framework. Web-based application for car replacement management, with multiuser environment, orders based on a price ranking matrix, reports, SOAP web-service for retrieving real time data about customers. LeasePlan required orders to be populated without the need for users to refresh pages, therefore I have used web-sockets.",
+    "tags": [
+      "PHP", "Laravel", "jQuery", "Bootstrap", "SOAP", "Web Sockets"
+    ],
+    "url": "http://carreplacement.leaseplan.ro"
+  },
+  {
+    "name":"Promovarea.ro",
+    "image": "css/img/projects/promovarea/promovarea-1.png",
+    "images": ["css/img/projects/promovarea/promovarea-2.png", "css/img/projects/promovarea/promovarea-3.png"],
+    "short_description":"Promovarea.ro is a custom solution I developed with plain PHP. This web site enables small to medium sized businesses to advertise and for their customers to search for the services of these businesses using filters, such as location, price range or business type...",
+    "description":"Promovarea.ro is a custom solution I developed with plain PHP. This web site enables small to medium sized businesses to advertise and for their customers to search for the services of these businesses using filters, such as location, price range or business type. The app uses a third party payment processor. I developed the Admin Panel with a customised CMS and CRM.",
+    "tags": [
+      "PHP", "MySQL", "SOAP"
+    ],
+    "url": "http://www.promovarea.ro"
+  }
+]

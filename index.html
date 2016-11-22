@@ -1,0 +1,62 @@
+<!doctype html>
+<html ng-app="myPortfolio">
+<head>
+<title>Ionut Tatu - Online Portfolio</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,900" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/jquery.bxslider.css">
+
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="js/angular-route.min.js"></script>
+<script type="text/javascript" src="js/angular-animate.min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="js/controllers.js"></script>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+</head>
+<body>
+
+<header>
+	<div class="container">
+		<div class="row">
+			<a href="#/list">
+				<div class="col-xs-12 col-sm-12 col-md-6">
+					<h1>Ionut Tatu - Full Stack Web Developer</h1>
+				</div>
+			</a>
+			<div class="col-xs-12 col-sm-12 col-md-6">
+				<h3>Online Portfolio</h3>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div ng-view class="main slide-pop"></div>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-8">
+				<h3>About me</h3>
+				<p>An ambitious problem solver with a passion for online businesses, and who would like to join a team of like-minded developers. With a 3+ years as a Full Stack Web Developer I’ve got strong background in both front and back end development.</p>
+			 	<p>Able to work well both independently and as part of a productive team, demonstrating the motivation and problem solving abilities required to meet demanding deadlines while maintaining the highest of standards. I have a high awareness of industry trends, as someone who takes responsibility for his own personal development, I am continually evaluating and upgrading my skills so that I stay at the cutting edge of web development.</p>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4">
+				<h3>Follow me</h3>
+				<a href="www.linkedin.com/in/ionut-tatu" target="_blank"><i class="fa fa-facebook-square"></i></a>
+				<a href="www.linkedin.com/in/ionut-tatu" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+				<a href="https://github.com/ionut-tatu" target="_blank"><i class="fa fa-github-square"></i></a>
+
+				<img src="css/img/profile-picture.jpg" class="profilePicture" />
+			</div>
+		</div>
+	</div>
+</footer>
+
+</body>
+</html>
